@@ -1,0 +1,21 @@
+name: ragcraft-mcp
+displayName: RAGCraft - Semantic Chunking, Vector Embeddings & Hybrid Search MCP
+description: Universal RAG (Retrieval-Augmented Generation) & knowledge engine for Cursor, Claude & Windsurf. Generates optimal semantic chunks with overlap, computes vector embedding and database costs, synthesizes hybrid search queries (BM25 + Cosine RRF), and benchmarks retrieval accuracy.
+category: developer-tools
+homepage: https://github.com/AmyGraphics/ragcraft-mcp
+repository: https://github.com/AmyGraphics/ragcraft-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/ragcraft-mcp/main/icon.png
+keywords:
+  - rag
+  - semantic-chunking
+  - vector-search
+  - embeddings
+  - hybrid-search
+  - pgvector
+  - pinecone
+  - cursor
+  - claude
+  - windsurf
+startCommand:
+  type: http
+  url: https://ragcraft-api.agentweb-hub.workers.dev/mcp
