@@ -15,3 +15,10 @@ Universal Autonomous RAG (Retrieval-Augmented Generation) Knowledge Architecture
 ## Evaluation-first workflow
 
 RAGCraft profiles documents, recommends chunking and embeddings, estimates cost, creates a retrieval/faithfulness test suite and supports before/after quality comparison. Recommendations depend on the supplied documents and evaluation set; no quality guarantee is claimed.
+
+
+## Why this MCP is worth using
+
+Real documents → chunking, embedding-cost, retrieval-test and before/after RAG quality decisions.
+
+This outcome is the product value; the tool count is only an implementation detail.
